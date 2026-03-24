@@ -55,6 +55,5 @@ SHAP summary plots revealed the underlying rules the model learned:
 ## Contributing
 Contributions, issues, and feature requests are welcome. If you are a public health researcher or data scientist interested in expanding this to include Cholera or Meningitis, please reach out!
 
-
 ---
-*Created by[Your Name] | 3MTT Fellow*
+*Created by[Taiye Janet Fagbolade] | 3MTT Fellow*
