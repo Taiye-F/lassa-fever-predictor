@@ -11,7 +11,7 @@ This project is an end-to-end epidemiological machine learning pipeline designed
 By integrating historical health records, live environmental satellite data, and socio-economic vulnerability metrics, this tool shifts public health strategy from *reactive* to *proactive*, enabling targeted resource allocation ahead of peak disease seasons.
 
 
-**[Live Web Application - Click Here to View]((https://lassa-fever-predictor-kbed4nykdokqcppjimwxte.streamlit.app/))**
+**[Live Web Application - Click Here to View](https://lassa-fever-predictor-kbed4nykdokqcppjimwxte.streamlit.app/)**
 
 ## Objectives
 1.  **Analyze Drivers:** Determine the primary environmental and social factors that trigger Lassa Fever outbreaks.
