@@ -9,9 +9,8 @@ st.set_page_config(page_title="Lassa Fever Risk Assessor", page_icon="🦠", lay
 @st.cache_resource
 def load_model():
     # Make sure 'lassa_model.pkl' is in the same folder as this app.py file
-    #return joblib.load('lassa_model.pkl')
-     return joblib.load(r"C:\Users\Taiye Fagbolade\Downloads\learning folder\lassa_model.pkl")
-
+    return joblib.load('lassa_model.pkl')
+    
 try:
     model = load_model()
 except FileNotFoundError:
