@@ -67,7 +67,7 @@ st.write("""
 This epidemiological tool predicts the probability of a Lassa Fever outbreak based on real-time environmental triggers and socio-economic vulnerability. 
 **Select a state to load its current baseline data, or adjust the sliders to simulate a future scenario!**
          
-         developed by Taiye Janet  Fagbolade
+         Developed by Taiye Janet  Fagbolade
 """)
 st.markdown("---")
 
