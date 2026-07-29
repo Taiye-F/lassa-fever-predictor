@@ -130,4 +130,4 @@ if st.button("Predict Outbreak Risk", type="primary"):
             st.write("Please check that the feature names in the app match exactly what the model was trained on.")
             
     st.markdown("---")
-    st.caption("Data Sources: NCDC, NBS (HDX), Open-Meteo ERA5 API")
+    
